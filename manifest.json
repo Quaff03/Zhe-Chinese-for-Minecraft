@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "哲体中文",
+        "name": "哲体中文",
+        "uuid": "6ab4515c-4f62-352c-aed6-e23022a8ebee",
+        "version": [1, 21, 0],
+        "platform_locked" : false,
+        "min_engine_version": [1, 21, 0]
+    },
+    "modules": [
+        {
+            "description": "哲体中文",
+            "type": "resources",
+            "uuid": "6ee9332c-3615-4876-a061-0406d3725a80",
+            "version": [1, 21, 0]
+        }
+    ]
+}
