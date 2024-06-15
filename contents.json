@@ -1,0 +1,19 @@
+{
+    "content": [
+        {
+            "path": "loading_messages.json"
+        },
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "pack_icon.png"
+        },
+        {
+            "path": "texts/zh_ZHE.lang"
+        },
+        {
+            "path": "texts/languages.json"
+        }
+    ]
+}
