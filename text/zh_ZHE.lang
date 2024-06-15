@@ -1,15 +1,12 @@
-## Comments can be added anywhere on a valid line by starting with '##'
-## Minecraft译名修正
-## Note, trailing spaces will NOT be trimmed. If you want room between the end of the string and the start of a
-## comment on the same line, use TABs.
-accessibility.disableTTS=文本转语音已禁用	#
-accessibility.enableTTS=文本转语音已启用	#
+## Minecraft哲体中文
+accessibility.disableTTS=文字转至话语已然禁用	#
+accessibility.enableTTS=文字转至话语已然启用	#
 
 ## Translator note:
 ## This section of phrases will be given audibly to the user using text to speech
 
-accessibility.chat.tts.gamepad.back=按%s返回	#
-accessibility.chat.tts.gamepad.exitChat=按%s退出聊天	#
+accessibility.chat.tts.gamepad.back=轻压%s返回	#
+accessibility.chat.tts.gamepad.exitChat=轻压%s退出聊天	#
 accessibility.chat.tts.gamepad.sendMessage=按%s发送消息	#
 accessibility.chat.tts.says=%s说%s	#
 accessibility.chat.tts.hideChat=隐藏聊天	#
