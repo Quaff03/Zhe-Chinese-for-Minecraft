@@ -15,8 +15,7 @@
     "tips.game.1",
     "tips.game.2",
     "tips.game.3",
-    "tips.game.4",
-    "tips.game.5"
+    "tips.game.4"
   ],
   "mid_game_loading_messages": [
     "beginnerTips.1",
@@ -103,8 +102,7 @@
     "tips.game.1",
     "tips.game.2",
     "tips.game.3",
-    "tips.game.4",
-    "tips.game.5"
+    "tips.game.4"
   ],
   "late_game_loading_messages": [
     "beginnerTips.1",
@@ -218,8 +216,7 @@
     "tips.game.1",
     "tips.game.2",
     "tips.game.3",
-    "tips.game.4",
-    "tips.game.5"
+    "tips.game.4"
   ],
   "editor_loading_messages": [
     "beginnerTips.1",
@@ -333,8 +330,7 @@
     "tips.game.1",
     "tips.game.2",
     "tips.game.3",
-    "tips.game.4",
-    "tips.game.5"
+    "tips.game.4"
   ],
   "realms_loading_messages": [
     "tips.realms.1",
@@ -342,8 +338,7 @@
     "tips.game.1",
     "tips.game.2",
     "tips.game.3",
-    "tips.game.4",
-    "tips.game.5"
+    "tips.game.4"
   ]
 }
 
