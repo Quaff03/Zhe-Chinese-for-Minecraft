@@ -1,37 +1,21 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: 错误报告
+about: 创建错误报告的模板
+assignees: Quaff03
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**这个 Bug 是这样的：**
+简洁明了地描述问题。
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down t
+**如何复现 Bug**
+复现问题的步骤:
+1. 激活资源包；
+2. 观察翻译键"……"。
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**截屏或其他资源**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**资源包版本:**
+[BE-1.*]/[JE-1.*]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**其他说明**
