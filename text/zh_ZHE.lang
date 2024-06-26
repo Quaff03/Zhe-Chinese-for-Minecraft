@@ -1,6 +1,6 @@
 ## Minecraft哲体中文
-accessibility.disableTTS=文字转至话语已然禁用	#
-accessibility.enableTTS=文字转至话语已然启用	#
+accessibility.disableTTS=文字转至话语现在已经被禁用了	#
+accessibility.enableTTS=文字转至话语现在已经被启用	#
 
 ## Translator note:
 ## This section of phrases will be given audibly to the user using text to speech
