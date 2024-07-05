@@ -1,6 +1,6 @@
 on:
   workflow_dispatch
   
-  - name: Minecraft-Packr
-    uses: Sindercube/Packr@v2
+- name: Minecraft-Packr
+  uses: Sindercube/Packr@v2
             
