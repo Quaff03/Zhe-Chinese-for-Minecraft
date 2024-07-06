@@ -4,5 +4,6 @@ jobs:
   build:
      runs-on: ubuntu-22.04
      steps:
-        - name: Minecraft-Packr
-          uses: Sindercube/Packr@v2
+       - name: Bedrock Addon Packager
+         uses: Fabrimat/addon-packager-action@v0.2
+            
