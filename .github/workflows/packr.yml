@@ -1,0 +1,9 @@
+on: 
+  workflow_dispatch:
+jobs:
+  build:
+     runs-on: ubuntu-22.04
+     steps:
+       - name: Bedrock Addon Packager
+         uses: Fabrimat/addon-packager-action@v0.2
+            
